@@ -43,7 +43,7 @@ main_logger("This is happening on the mainline")
 
 ctx_logger = refine_logger(main_logger, context=uuid4())
 ctx_logger("A configured logger")
-# prints to standard out: 'dt level=info ctx="ff088e2c-b127-4d8a-ba1d-347de59d302e" msg="A configured logger"'
+# prints to standard out: 'dt level=info context="ff088e2c-b127-4d8a-ba1d-347de59d302e" msg="A configured logger"'
 ```
 
 ### Advanced
