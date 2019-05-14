@@ -54,9 +54,9 @@ def escape_quotes(s: str) -> str:
 
     Examples:
         >>> escape_quotes('one "two" three')
-        'one \\'two\\' three'
+        "one 'two' three"
         >>> escape_quotes('"He said he didn\\'t know."')
-        '\\"He said he didn\\'t know.\\"'
+        '\\\\"He said he didn\\'t know.\\\\"'
     """
     if "'" in s:
         return s.replace('"', '\\"')
