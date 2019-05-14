@@ -9,7 +9,7 @@ setup(
   author = 'Joel Smith',
   author_email = 'joelsmith.developer@gmail.com',
   url = 'https://github.com/JoelAtDeluxe/simplog',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz', 
   keywords = ['logging', 'functional', 'splunk'],
   install_requires=[],
   classifiers=[
