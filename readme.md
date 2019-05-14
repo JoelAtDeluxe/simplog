@@ -132,3 +132,4 @@ python -m pytest
 1. Make a proper distributable
 2. Test & Optimize performance
 3. Suport custom character escapes?
+4. Add in support for mypy
