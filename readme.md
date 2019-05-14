@@ -129,8 +129,6 @@ python -m pytest
 
 ## TODOs
 
-1. Add docstrings and doctests
-2. Make python 2 compatible
-3. Make a proper distributable
-4. Test & Optimize performance
-5. Suport custom character escapes?
+1. Make a proper distributable
+2. Test & Optimize performance
+3. Suport custom character escapes?
