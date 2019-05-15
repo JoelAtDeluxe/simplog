@@ -1,4 +1,4 @@
-from logger import (
+from simplog.logger import (
     make_logger,
     refine_logger,
 
