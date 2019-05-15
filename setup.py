@@ -7,7 +7,7 @@ setup(
   license='MIT',
   description = 'A simple, functional, opinionated logger for python',   
   author = 'Joel Smith',
-  author_email = 'joelsmith.developer@gmail.com',
+  author_email = 'joel.pypi@gmail.com',
   url = 'https://github.com/JoelAtDeluxe/simplog',
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz', 
   keywords = ['logging', 'functional', 'splunk'],
