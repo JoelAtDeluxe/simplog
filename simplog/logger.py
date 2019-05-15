@@ -95,7 +95,7 @@ def quote_string(s: str, force:bool=False) -> str:
 
 def make_logger(write_func:Callable[[str], None]=print, *, message_label="msg", level_label="level", time_label=None, 
                 to_string_func=force_string, force_quote=False):
-    """ Generates a logging function with some predefined functionality. 
+    """Generates a logging function with some predefined functionality. 
 
     Description:
         A function to generate a semi-customizable logging function, specifically targeted for 

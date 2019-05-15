@@ -129,6 +129,6 @@ python -m pytest
 
 ## TODOs
 
-1. Make a proper distributable
-2. Test & Optimize performance
-3. Suport custom character escapes?
+1. Test & Optimize performance
+2. Suport custom character escapes?
+3. Add in support for mypy
